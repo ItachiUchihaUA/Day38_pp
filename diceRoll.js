@@ -1,0 +1,1 @@
+console.log("Dice Roll: "+(Math.floor(Math.random()*6+1)))
